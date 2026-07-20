@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 ## Sorting
 |  |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
