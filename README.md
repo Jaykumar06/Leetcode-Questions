@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [1260-shift-2d-grid](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1288-remove-covered-intervals) |
@@ -60,12 +61,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0268-missing-number) |
 | [1288-remove-covered-intervals](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0268-missing-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
@@ -102,11 +106,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0268-missing-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0138-copy-list-with-random-pointer) |
+| [0268-missing-number](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 ## Enumeration
 |  |
