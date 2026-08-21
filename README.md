@@ -165,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0020-valid-parentheses) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
