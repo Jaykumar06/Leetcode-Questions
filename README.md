@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1386-cinema-seat-allocation) |
+| [1872-stone-game-viii](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1301-number-of-paths-with-max-score) |
+| [1872-stone-game-viii](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1872-stone-game-viii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0486-predict-the-winner) |
+| [1872-stone-game-viii](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
+| [1872-stone-game-viii](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1872-stone-game-viii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
 |  |
@@ -145,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0486-predict-the-winner) |
+| [1872-stone-game-viii](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1872-stone-game-viii) |
 ## Linked List
 |  |
 | ------- |
@@ -170,4 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0177-nth-highest-salary) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
