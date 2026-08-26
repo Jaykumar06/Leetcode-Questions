@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0020-valid-parentheses) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1386-cinema-seat-allocation) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Enumeration
 |  |
 | ------- |
