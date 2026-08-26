@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0200-number-of-islands](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0268-missing-number) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0486-predict-the-winner](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1872-stone-game-viii](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1872-stone-game-viii) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0876-middle-of-the-linked-list](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0901-online-stock-span](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0901-online-stock-span) |
 ## Bracket Sequences
 |  |
@@ -191,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0901-online-stock-span](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
