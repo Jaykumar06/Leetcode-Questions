@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
+| [0392-is-subsequence](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1872-stone-game-viii](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1872-stone-game-viii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0038-count-and-say) |
+| [0392-is-subsequence](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0520-detect-capital) |
 | [1544-make-the-string-great](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1544-make-the-string-great) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
+| [0392-is-subsequence](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
