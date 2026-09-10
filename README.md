@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0207-course-schedule) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -239,4 +240,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
