@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
@@ -146,10 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1291-sequential-digits) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Number Theory
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
 |  |
 | ------- |
