@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0268-missing-number) |
 | [1288-remove-covered-intervals](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0520-detect-capital) |
 | [0880-decoded-string-at-index](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0880-decoded-string-at-index) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1544-make-the-string-great](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1544-make-the-string-great) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
