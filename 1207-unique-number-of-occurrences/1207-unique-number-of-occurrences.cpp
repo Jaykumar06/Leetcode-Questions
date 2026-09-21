@@ -1,15 +1,14 @@
 class Solution {
 public:
     bool uniqueOccurrences(vector<int>& arr) {
-        int n= arr.size();
+        unordered_map<int,int>store;
 
-        unordered_map<int,int>store;//key,value
-       
-        for( int num:arr){
-            store[num]++;
+        for(int i=0;i<arr.size();i++){
+            store[arr[i]]++;
         }
-        unordered_set<int>s;// store the frequency of the values...
-        for( auto it:store){// use to iterate in the map...
+
+        unordered_set<int>s;
+        for(auto &it:store){
             if(s.count(it.second)){
                 return false;
             }
