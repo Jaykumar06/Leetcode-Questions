@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1288-remove-covered-intervals) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1301-number-of-paths-with-max-score](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1386-cinema-seat-allocation) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0846-hand-of-straights) |
 | [1096-brace-expansion-ii](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1288-remove-covered-intervals) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0846-hand-of-straights](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0846-hand-of-straights) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1386-cinema-seat-allocation](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0846-hand-of-straights) |
 | [1096-brace-expansion-ii](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1207-unique-number-of-occurrences) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
