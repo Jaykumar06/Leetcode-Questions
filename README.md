@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1872-stone-game-viii) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -301,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3721-longest-balanced-subarray-ii](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3721-longest-balanced-subarray-ii) |
 <!---LeetCode Topics End-->
