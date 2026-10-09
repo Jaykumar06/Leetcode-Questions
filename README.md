@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0520-detect-capital) |
 | [0880-decoded-string-at-index](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0880-decoded-string-at-index) |
+| [1021-remove-outermost-parentheses](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0880-decoded-string-at-index](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0880-decoded-string-at-index) |
 | [0901-online-stock-span](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0901-online-stock-span) |
+| [1021-remove-outermost-parentheses](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1544-make-the-string-great](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1544-make-the-string-great) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Database
 |  |
