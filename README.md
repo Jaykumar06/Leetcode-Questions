@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3721-longest-balanced-subarray-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3903-smallest-stable-index-i](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bit Manipulation
 |  |
 | ------- |
