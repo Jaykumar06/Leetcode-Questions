@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3903-smallest-stable-index-i](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3903-smallest-stable-index-i) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
 |  |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Enumeration
 |  |
