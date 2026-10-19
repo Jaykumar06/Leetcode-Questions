@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0046-permutations) |
 | [0200-number-of-islands](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0200-number-of-islands) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0037-sudoku-solver) |
 | [0200-number-of-islands](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [1219-path-with-maximum-gold](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1219-path-with-maximum-gold) |
 | [1260-shift-2d-grid](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1260-shift-2d-grid) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0268-missing-number](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0846-hand-of-straights](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0846-hand-of-straights) |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0046-permutations) |
 | [1096-brace-expansion-ii](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
 | [1219-path-with-maximum-gold](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1219-path-with-maximum-gold) |
@@ -362,4 +366,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
