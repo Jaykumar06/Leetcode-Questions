@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1872-stone-game-viii](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/0268-missing-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jaykumar06/Leetcode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
